@@ -1,0 +1,41 @@
+.logo {
+    font-size: 35px;
+    margin: 0px;
+}
+
+.logout {
+    padding: 10px 20px;
+    border: solid 1px;
+    border-radius: 30px;
+}
+
+.active-menu {
+    background-color: #D8C3A5;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 30px;
+}
+
+.progress {
+    margin-right: 90px;
+    margin-left: 65px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 1px;
+    color: #555;
+    padding: 5px 30px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+    li {
+        list-style: none;
+        font-size: 20px;
+    }
+}
